@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "juanita",
+      "email": "anamariatg4@hotmail.com",
+      "telefono": "9595491",
+      "empresa": "sura",
+      "id": 2
+    },
+    {
+      "nombre": "miguel",
+      "email": "correo@correo.com",
+      "telefono": "12312312",
+      "empresa": "correo",
+      "id": 5
+    },
+    {
+      "nombre": "juan",
+      "email": "juancho9615@hotmail.com",
+      "telefono": "3192192235",
+      "empresa": "Codigo con juan",
+      "id": 6
+    }
+  ]
+}
